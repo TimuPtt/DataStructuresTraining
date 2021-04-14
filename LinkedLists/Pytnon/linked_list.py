@@ -35,9 +35,40 @@ class LinkedList(object):
             new_node.next_node = self.head
             self.head = new_node
 
+    def push_back(self, data):
+        self.size += 1
+        new_node = ListNode(data)
+        if self.head == None:
+            self.head = new_node
+        else:
+            current = self.head
+            while current.next_node != None:
+                current = current.next_node
+            current.next_node = new_node            
+
     def pop_front(self):
-        self.size -= 1
-        self.head = self.head.next_node
+        if self.head != None:
+            self.size -= 1
+            self.head = self.head.next_node
+
+    def pop_back(self):
+        if self.head != None:
+            self.size -= 1
+            current = self.head           
+            while current.next_node.next_node != None:
+                current = current.next_node
+            current.next_node = None 
+
+    def front(self):
+        if self.head != 0:
+            return self.head.data
+
+    def back(self):
+        if self.head != None:
+            current = self.head           
+            while current.next_node != None:
+                current = current.next_node
+            return current.data
 
     def empty(self):
         if self.head == None:
