@@ -1,0 +1,15 @@
+/Users/timschukin/Projects/SmpleHashTable/SmpleHashTable/bin/Debug/net5.0/SmpleHashTable.deps.json
+/Users/timschukin/Projects/SmpleHashTable/SmpleHashTable/bin/Debug/net5.0/SmpleHashTable.runtimeconfig.json
+/Users/timschukin/Projects/SmpleHashTable/SmpleHashTable/bin/Debug/net5.0/SmpleHashTable.runtimeconfig.dev.json
+/Users/timschukin/Projects/SmpleHashTable/SmpleHashTable/bin/Debug/net5.0/SmpleHashTable.dll
+/Users/timschukin/Projects/SmpleHashTable/SmpleHashTable/bin/Debug/net5.0/ref/SmpleHashTable.dll
+/Users/timschukin/Projects/SmpleHashTable/SmpleHashTable/bin/Debug/net5.0/SmpleHashTable.pdb
+/Users/timschukin/Projects/SmpleHashTable/SmpleHashTable/obj/Debug/net5.0/SmpleHashTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timschukin/Projects/SmpleHashTable/SmpleHashTable/obj/Debug/net5.0/SmpleHashTable.AssemblyInfoInputs.cache
+/Users/timschukin/Projects/SmpleHashTable/SmpleHashTable/obj/Debug/net5.0/SmpleHashTable.AssemblyInfo.cs
+/Users/timschukin/Projects/SmpleHashTable/SmpleHashTable/obj/Debug/net5.0/SmpleHashTable.csproj.CoreCompileInputs.cache
+/Users/timschukin/Projects/SmpleHashTable/SmpleHashTable/obj/Debug/net5.0/SmpleHashTable.dll
+/Users/timschukin/Projects/SmpleHashTable/SmpleHashTable/obj/Debug/net5.0/ref/SmpleHashTable.dll
+/Users/timschukin/Projects/SmpleHashTable/SmpleHashTable/obj/Debug/net5.0/SmpleHashTable.pdb
+/Users/timschukin/Projects/SmpleHashTable/SmpleHashTable/obj/Debug/net5.0/SmpleHashTable.genruntimeconfig.cache
+/Users/timschukin/Projects/SmpleHashTable/SmpleHashTable/obj/Debug/net5.0/SmpleHashTable.csproj.AssemblyReference.cache
