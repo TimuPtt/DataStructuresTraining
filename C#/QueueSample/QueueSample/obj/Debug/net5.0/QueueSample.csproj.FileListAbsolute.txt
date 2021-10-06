@@ -1,0 +1,16 @@
+C:\Users\timup\source\repos\QueueSample\QueueSample\bin\Debug\net5.0\QueueSample.exe
+C:\Users\timup\source\repos\QueueSample\QueueSample\bin\Debug\net5.0\QueueSample.deps.json
+C:\Users\timup\source\repos\QueueSample\QueueSample\bin\Debug\net5.0\QueueSample.runtimeconfig.json
+C:\Users\timup\source\repos\QueueSample\QueueSample\bin\Debug\net5.0\QueueSample.runtimeconfig.dev.json
+C:\Users\timup\source\repos\QueueSample\QueueSample\bin\Debug\net5.0\QueueSample.dll
+C:\Users\timup\source\repos\QueueSample\QueueSample\bin\Debug\net5.0\ref\QueueSample.dll
+C:\Users\timup\source\repos\QueueSample\QueueSample\bin\Debug\net5.0\QueueSample.pdb
+C:\Users\timup\source\repos\QueueSample\QueueSample\obj\Debug\net5.0\QueueSample.csproj.AssemblyReference.cache
+C:\Users\timup\source\repos\QueueSample\QueueSample\obj\Debug\net5.0\QueueSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timup\source\repos\QueueSample\QueueSample\obj\Debug\net5.0\QueueSample.AssemblyInfoInputs.cache
+C:\Users\timup\source\repos\QueueSample\QueueSample\obj\Debug\net5.0\QueueSample.AssemblyInfo.cs
+C:\Users\timup\source\repos\QueueSample\QueueSample\obj\Debug\net5.0\QueueSample.csproj.CoreCompileInputs.cache
+C:\Users\timup\source\repos\QueueSample\QueueSample\obj\Debug\net5.0\QueueSample.dll
+C:\Users\timup\source\repos\QueueSample\QueueSample\obj\Debug\net5.0\ref\QueueSample.dll
+C:\Users\timup\source\repos\QueueSample\QueueSample\obj\Debug\net5.0\QueueSample.pdb
+C:\Users\timup\source\repos\QueueSample\QueueSample\obj\Debug\net5.0\QueueSample.genruntimeconfig.cache
