@@ -1,0 +1,16 @@
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\bin\Debug\net5.0\BinaryHeap.exe
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\bin\Debug\net5.0\BinaryHeap.deps.json
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\bin\Debug\net5.0\BinaryHeap.runtimeconfig.json
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\bin\Debug\net5.0\BinaryHeap.runtimeconfig.dev.json
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\bin\Debug\net5.0\BinaryHeap.dll
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\bin\Debug\net5.0\ref\BinaryHeap.dll
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\bin\Debug\net5.0\BinaryHeap.pdb
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\obj\Debug\net5.0\BinaryHeap.csproj.AssemblyReference.cache
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\obj\Debug\net5.0\BinaryHeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\obj\Debug\net5.0\BinaryHeap.AssemblyInfoInputs.cache
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\obj\Debug\net5.0\BinaryHeap.AssemblyInfo.cs
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\obj\Debug\net5.0\BinaryHeap.csproj.CoreCompileInputs.cache
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\obj\Debug\net5.0\BinaryHeap.dll
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\obj\Debug\net5.0\ref\BinaryHeap.dll
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\obj\Debug\net5.0\BinaryHeap.pdb
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\BinaryHeap\obj\Debug\net5.0\BinaryHeap.genruntimeconfig.cache
