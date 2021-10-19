@@ -1,0 +1,16 @@
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\obj\Debug\net5.0\Graph.csproj.AssemblyReference.cache
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\obj\Debug\net5.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\obj\Debug\net5.0\Graph.AssemblyInfoInputs.cache
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\obj\Debug\net5.0\Graph.AssemblyInfo.cs
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\obj\Debug\net5.0\Graph.csproj.CoreCompileInputs.cache
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\bin\Debug\net5.0\Graph.exe
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\bin\Debug\net5.0\Graph.deps.json
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\bin\Debug\net5.0\Graph.runtimeconfig.json
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\bin\Debug\net5.0\Graph.runtimeconfig.dev.json
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\bin\Debug\net5.0\Graph.dll
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\bin\Debug\net5.0\ref\Graph.dll
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\bin\Debug\net5.0\Graph.pdb
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\obj\Debug\net5.0\Graph.dll
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\obj\Debug\net5.0\ref\Graph.dll
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\obj\Debug\net5.0\Graph.pdb
+C:\Users\timup\Documents\REP\DataStructuresTraining\C#\Graph\Graph\obj\Debug\net5.0\Graph.genruntimeconfig.cache
